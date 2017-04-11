@@ -1,3 +1,5 @@
+![Canna Commerce](/img/mini-app-ecommerce-window.png?raw=true "Canna Commerce")
+
 # Canna Commerce
 
 An open source ecommerce platform using Reaction/Meteor for managing dispensary sales and promotions.
@@ -54,7 +56,7 @@ Give an example
 
 ## Deployment
 
-Deployment can be handled in many ways. We recommend using Docker. 
+Deployment can be handled in many ways. We recommend using Docker.
 
 ## Built With
 
@@ -69,7 +71,7 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
 
 ## Authors
 
@@ -86,4 +88,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Hat tip to anyone who's code was used
 * Inspiration
 * etc
-
