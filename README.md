@@ -2,11 +2,11 @@
 
 # Canna Commerce
 
-An open source ecommerce platform using Reaction/Meteor for managing dispensary sales and promotions.
+An open source e-commerce platform using Reaction/Meteor for managing dispensary sales and promotions.
 
-## Getting Started
+## Overview
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Canna Commerce is designed to help alleviate the issues for California dispensaries who are currently operating in cash-only systems because of regulations that have disallowed California dispensaries to have bank accounts. Canna Commerce uses Reaction Commerce for the e-commerce interactions and is focused on Membership Management functions as they relate to dispensaries. Anyone can use Canna Commerce, however it is designed for the more advanced development teams who are leveraging the modern features of a reactive e-commerce platform. This is the cutting edge of e-commerce for medical marijuana delivery and dispensary organizations.
 
 ### Prerequisites
 
