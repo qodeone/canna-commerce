@@ -2,7 +2,7 @@
 
 # Canna Commerce
 
-An open source e-commerce platform using Reaction/Meteor for managing dispensary sales and promotions.
+An open source e-commerce platform using Reaction/Meteor for managing dispensary inventory, sales and promotions.
 
 ## Overview
 
