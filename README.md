@@ -1,4 +1,4 @@
-![Canna Commerce](/img/screenshot.png?raw=true "Canna Commerce")
+![Canna Commerce](/img/canna-split.png?raw=true "Canna Commerce")
 
 # Canna Commerce
 
