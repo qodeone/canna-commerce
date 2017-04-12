@@ -1,7 +1,5 @@
 ![Canna Commerce Logo](/img/canna-commerce-dk.png?raw=true "Canna Commerce Logo")
 
-![Canna Commerce](/img/mini-app-ecommerce-window.png?raw=true "Canna Commerce")
-
 # Canna Commerce
 
 An open source e-commerce platform using Reaction/Meteor for managing dispensary sales and promotions.
