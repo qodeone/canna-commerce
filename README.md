@@ -1,4 +1,4 @@
-![Canna Commerce Logo](/img/canna-commerce-dk.svg?raw=true "Canna Commerce Logo")
+![Canna Commerce Logo](/img/canna-commerce-dk.png?raw=true "Canna Commerce Logo")
 
 ![Canna Commerce](/img/mini-app-ecommerce-window.png?raw=true "Canna Commerce")
 
